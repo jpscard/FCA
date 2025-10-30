@@ -1,0 +1,54 @@
+### Artigo: PIS e COFINS: o que é, como calcular e alíquotas | Qive
+
+PIS e COFINS são duas contribuições sociais criadas pelo Governo Federal para financiar benefícios para a população.
+
+*   **PIS (Programa de Integração Social):** arrecada fundos para o pagamento do seguro-desemprego, abono salarial e outros benefícios aos trabalhadores de empresas privadas.
+*   **COFINS (Contribuição para o Financiamento da Seguridade Social):** financia a Seguridade Social, como a Previdência Social, a saúde pública e a assistência social.
+
+**Quem deve pagar PIS e COFINS?**
+
+Quase todas as pessoas jurídicas de direito privado no Brasil devem contribuir com o PIS e a COFINS. A forma de cálculo e a alíquota podem variar dependendo do regime tributário do negócio.
+
+**Quem não é obrigado a pagar?**
+
+*   Templos de qualquer religião;
+*   Partidos políticos;
+*   Instituições sem fins lucrativos;
+*   Sindicatos, federações e confederações;
+*   Entidades de fiscalização do exercício profissional (conselhos de classe);
+*   Associações recreativas e culturais.
+
+**Como e quando se recolhe?**
+
+O recolhimento é mensal, até o dia 25 do mês seguinte, por meio de um DARF (Documento de Arrecadação de Receitas Federais). A apuração depende do regime tributário (Simples Nacional, Lucro Presumido ou Lucro Real).
+
+**Alíquotas PIS e COFINS**
+
+A alíquota é o percentual aplicado sobre a base de cálculo (geralmente o faturamento) para definir o valor do imposto.
+
+*   **Simples Nacional**: PIS e COFINS estão incluídos na guia única (DAS), com alíquotas progressivas.
+
+*   **Lucro Presumido**: Estão no regime cumulativo. O imposto é calculado diretamente sobre o faturamento, sem direito a descontar créditos. As alíquotas são:
+    *   **PIS: 0,65%**
+    *   **COFINS: 3%**
+
+*   **Lucro Real**: A maioria se enquadra no regime não-cumulativo. As alíquotas são mais altas, mas o negócio pode descontar créditos de PIS e COFINS gerados a partir de certas despesas (compras de insumos, aluguéis, etc.). As alíquotas são:
+    *   **PIS: 1,65%**
+    *   **COFINS: 7,60%**
+
+**Outros casos de aplicação**
+
+Existem alíquotas específicas para setores como combustíveis, veículos, produtos farmacêuticos, bebidas frias, etc. (tributação monofásica), onde o imposto é recolhido uma única vez na cadeia.
+
+**Modalidades de contribuição**
+
+*   **Regime não-cumulativo**: Permite abater créditos gerados nas compras e despesas.
+*   **Regime cumulativo**: Não permite abatimento de créditos.
+
+**PIS e COFINS na importação**
+
+Na importação, as alíquotas gerais são de 2,1% para o PIS-Importação e de 9,65% para a COFINS-Importação, para garantir uma carga tributária semelhante à dos produtos nacionais.
+
+**PIS e COFINS na reforma tributária**
+
+Com a Reforma Tributária, o PIS e a COFINS serão substituídos pela CBS (Contribuição sobre Bens e Serviços), um tributo federal unificado do novo IVA. A transição será gradual, entre 2026 e 2032.

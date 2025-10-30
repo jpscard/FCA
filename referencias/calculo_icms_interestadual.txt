@@ -1,0 +1,102 @@
+O conteúdo principal do artigo "TABELA ICMS TRANSPORTE: CONFIRA DADOS ATUALIZADOS DE 2025" da TOTVS é o seguinte:
+
+**Título:** TABELA ICMS TRANSPORTE: CONFIRA DADOS ATUALIZADOS DE 2025
+**Tempo de leitura:** 8 minutos
+**Última atualização:** 13 janeiro, 2025
+
+**Introdução:**
+A tabela ICMS transporte é essencial para empresas de logística e transporte de mercadorias devido às constantes mudanças de alíquotas estaduais. É crucial compreender suas nuances para gerenciar eficientemente a tributação e garantir a conformidade legal.
+
+**O que é o Imposto de ICMS?**
+O ICMS (Imposto sobre Circulação de Mercadorias e Serviços) é um tributo estadual aplicado sobre transporte, circulação de mercadorias, serviços de comunicação e energia elétrica. Suas alíquotas variam por estado e tipo de operação. No transporte, incide sobre serviços interestaduais e intermunicipais, sendo um imposto cumulativo.
+
+**O que é a Tabela ICMS Transporte?**
+É um instrumento para determinar a alíquota do ICMS sobre o transporte de mercadorias entre diferentes estados. É fundamental para calcular o imposto devido em operações interestaduais. As alíquotas internas são definidas por cada estado, enquanto as interestaduais são acordadas entre eles.
+
+**Como é feita a cobrança do ICMS sobre as operações?**
+A cobrança ocorre na circulação de mercadorias entre estados ou municípios.
+*   A alíquota varia conforme origem e destino.
+*   Em operações interestaduais, o ICMS é dividido entre o estado de origem e destino.
+*   Em operações intermunicipais (dentro do mesmo estado), a tributação é integralmente feita pelo estado de origem.
+
+**Tabela ICMS Transporte 2025:**
+É fundamental estar atualizado com as informações mais recentes. A tabela de alíquotas internas e interestaduais de 2025 ainda não foi totalmente divulgada e pode sofrer alterações. Uma mudança prevista é o aumento da alíquota do ICMS de 17% para 20% sobre encomendas internacionais, a partir de abril de 2025.
+
+**Tabela ICMS de Transporte Interestadual (Alíquotas ICMS interestadual atualizadas):**
+*   **7%:** Para serviços e mercadorias com destino às regiões Centro-Oeste, Norte, Nordeste e para o estado do Espírito Santo.
+*   **12%:** Para vendas destinadas aos estados da região Sul e Sudeste, com exceção do Espírito Santo.
+*   **Exceção:** São Paulo tem alíquota interestadual de 18% para si mesmo.
+
+**Tabela de Alíquotas Internas e Interestaduais (Exemplo de alguns estados):**
+
+| Estado             | Interna | Interestadual |
+| :----------------- | :------ | :------------ |
+| Acre (AC)          | 19%     | 7%            |
+| Alagoas (AL)       | 19%     | 7%            |
+| Amapá (AP)         | 18%     | 7%            |
+| Amazonas (AM)      | 20%     | 7%            |
+| Bahia (BA)         | 20,5%   | 7%            |
+| Ceará (CE)         | 20%     | 7%            |
+| Distrito Federal (DF)| 20%     | 7%            |
+| Espírito Santo (ES)| 17%     | 7%            |
+| Goiás (GO)         | 19%     | 7%            |
+| Maranhão (MA)      | 22%     | 7%            |
+| Mato Grosso (MT)   | 17%     | 7%            |
+| Mato Grosso do Sul (MS)| 17%     | 7%            |
+| Minas Gerais (MG)  | 18%     | 12%           |
+| Pará (PA)          | 19%     | 7%            |
+| Paraíba (PB)       | 20%     | 7%            |
+| Paraná (PR)        | 19,5%   | 12%           |
+| Pernambuco (PE)    | 20,5%   | 7%            |
+| Piauí (PI)         | 21%     | 7%            |
+| Rio de Janeiro (RJ)| 22%     | 12%           |
+| Rio Grande do Norte (RN)| 18%     | 7%            |
+| Rio Grande do Sul (RS)| 17%     | 12%           |
+| Rondônia (RO)      | 19,5%   | 7%            |
+| Roraima (RR)       | 20%     | 7%            |
+| Santa Catarina (SC)| 17%     | 12%           |
+| São Paulo (SP)     | 18%     | 18%           |
+| Sergipe (SE)       | 19%     | 7%            |
+| Tocantins (TO)     | 20%     | 7%            |
+
+**Principais Mudanças:**
+*   Redução das alíquotas interestaduais de 12% para 7% para as regiões Centro-Oeste, Nordeste e Norte.
+*   Unificação das regras de partilha do ICMS entre estados de origem e destino para todas as operações interestaduais.
+
+**Tabela ICMS de Transporte Intermunicipal:**
+O transporte intermunicipal ocorre entre municípios do mesmo estado. A alíquota aplicada é a interna do estado.
+
+**Alíquota de ICMS interna de cada estado (Exemplo de alguns estados):**
+
+| Estado             | Interna |
+| :----------------- | :------ |
+| Acre (AC)          | 19%     |
+| Alagoas (AL)       | 19%     |
+| Amapá (AP)         | 18%     |
+| Amazonas (AM)      | 20%     |
+| Bahia (BA)         | 20,5%   |
+| Ceará (CE)         | 20%     |
+| Distrito Federal (DF)| 20%     |
+| Espírito Santo (ES)| 17%     |
+| Goiás (GO)         | 19%     |
+| Maranhão (MA)      | 22%     |
+| Mato Grosso (MT)   | 17%     |
+| Mato Grosso do Sul (MS)| 17%     |
+| Minas Gerais (MG)  | 18%     |
+| Pará (PA)          | 19%     |
+| Paraíba (PB)       | 20%     |
+| Paraná (PR)        | 19,5%   |
+| Pernambuco (PE)    | 20,5%   |
+| Piauí (PI)         | 21%     |
+| Rio de Janeiro (RJ)| 22%     |
+| Rio Grande do Norte (RN)| 18%     |
+| Rio Grande do Sul (RS)| 17%     |
+| Rondônia (RO)      | 19,5%   |
+| Roraima (RR)       | 20%     |
+| Santa Catarina (SC)| 17%     |
+| São Paulo (SP)     | 18%     |
+| Sergipe (SE)       | 19%     |
+| Tocantins (TO)     | 20%     |
+
+**Conclusão:**
+A tabela ICMS transporte é vital para a correta tributação das operações de transporte no Brasil. É crucial manter-se atualizado com as mudanças, como o aumento da alíquota para encomendas internacionais em 2025. Soluções tecnológicas como a Suíte Logística da TOTVS podem auxiliar na gestão eficiente e no controle dos processos.
