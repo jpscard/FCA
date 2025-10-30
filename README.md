@@ -145,7 +145,7 @@ streamlit run app.py
 
 ## ▶️ Como Usar
 
-### **� 1. Autenticação (BYOK)**
+### **🔑 1. Autenticação (BYOK)**
 
 1. **Acesse o sistema**: `streamlit run app.py`
 2. **Configure identidade**: Nome e dados básicos
@@ -222,7 +222,7 @@ streamlit run app.py
 ### 🎯 **Analista Fiscal**
 
 #### **Análises Produzidas:**
-- � **Investigação detalhada** de cada discrepância
+- 🕵️ **Investigação detalhada** de cada discrepância
 - 💡 **Soluções específicas** para problemas identificados
 - ⚠️ **Avaliação de riscos** tributários
 - 📋 **Plano de ação** priorizado
@@ -261,7 +261,7 @@ streamlit run app.py
 - **Alíquotas por UF** sempre atualizadas
 - **Validação contra** Receita Federal
 
-### **� Privacidade**
+### **🔒 Privacidade**
 - **Processamento local** dos dados
 - **API Keys** armazenadas apenas na sessão
 - **Dados temporários** limpos automaticamente
@@ -311,7 +311,7 @@ streamlit run app.py
 
 #### **Próximas Versões:**
 - 📱 **App mobile** para auditores
-- � **API REST** para integração
+- 🔌 **API REST** para integração
 - 📊 **Dashboard BI** avançado
 - 🤖 **Agent de Compliance** automatizado
 - 📈 **Análise de tendências** fiscais
@@ -356,5 +356,3 @@ streamlit run app.py --logger.level=debug
 *Sistema especializado em regime LUCRO REAL - Sempre valide resultados com profissional contábil*
 
 **Última atualização**: Outubro 2025 | **Versão**: 2.0.0 | **Licença**: MIT
-
-
